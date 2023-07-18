@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Torguard VPN Client
+Comment=TorGuard VPN Software
+Exec=/usr/bin/torguard
+Icon=torguard
+Terminal=false
+Type=Application
+Categories=Network;Security;
+StartupNotify=false
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[en_US]=Torguard VPN Client
+Comment[en_US]=TorGuard VPN Software
+X-GNOME-Autostart-Delay=0

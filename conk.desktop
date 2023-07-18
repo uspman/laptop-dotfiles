@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=conky --config=/home/thomas/.conky.rc
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=conky startup
+Comment[en_US]=No description
+X-GNOME-Autostart-Delay=0
+
+

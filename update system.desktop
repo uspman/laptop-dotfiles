@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=alacritty -o "window.opacity=0.8" -e ./startup.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=update system
+Comment[en_US]=No description
+X-GNOME-Autostart-Delay=2
